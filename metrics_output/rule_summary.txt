@@ -1,0 +1,7 @@
+Total detections: 8
+Throughput (det/sec): 0.06
+Latency mean(ms): 0.00
+Latency median(ms): 0.00
+Latency 95th percentile(ms): 0.00
+Unique bursts detected: 8
+Average detections per burst: 1.00
